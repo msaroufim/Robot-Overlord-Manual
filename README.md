@@ -8,7 +8,7 @@ The scope of the book is quite wide but for some reason most of the below topics
 
 * ML language design
     * [What's a good programming language for robots and ML?](book/1-ML-language.md)
-    * What's a good API for ML?
+    * [What's a good API for ML?](book/2-Keras.md)
     * How to deploy ML models?
     * Differentiable Computing
 * How to design AI to play board games
@@ -22,8 +22,12 @@ The scope of the book is quite wide but for some reason most of the below topics
     * Open AI gym
     * How to create your own Open AI gym
     * Recurrent Neural networks for memory
+    * Model based vs model free methods
+    * Hidden information vs perfect information games
+    * Interpretability
 * How to program robots in software
     * Programming reward functions
+    * Differentiable physics engine
     * Programming a 2D robot arm
     * Programming a 3d robot arm
     * Programming animal location
@@ -35,8 +39,8 @@ The scope of the book is quite wide but for some reason most of the below topics
     * 3d printing robot parts
     * Programming Arduino
 
-## Are you planning a physical copy?
-Yes!
+## I prefer reading on paper, is there a physicaly copy I can buy?
+I'm planning on releasing a physical copy later this year, stay tuned!
 
 ## Could you talk about X?
 I'm happy to write about topics you find interesting. Just open up a Github issue and I'll address it ASAP.
