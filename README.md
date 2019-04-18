@@ -19,7 +19,6 @@ The scope of the book is quite wide but for some reason most of the below topics
     * Putting everything together
 * How to design AI to play video games
     * Deep Q learning
-    * Open AI gym
     * How to create your own Open AI gym
     * Recurrent Neural networks for memory
     * Model based vs model free methods
